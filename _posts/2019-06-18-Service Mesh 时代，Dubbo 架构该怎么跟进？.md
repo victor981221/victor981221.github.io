@@ -6,14 +6,14 @@
 
 
 
-在大会前夕，高可用架构采访了本届 GIAC Java分论坛讲师[小马哥](https://mercyblitz.github.io/about/)，就目前大家广泛关注的Dubbo/微服务相关的问题进行了访谈。
+在大会前夕，高可用架构采访了本届 GIAC Java分论坛讲师[小明哥](https://mercyblitz.github.io/about/)，就目前大家广泛关注的Dubbo/微服务相关的问题进行了访谈。
 
 
 
 
 #### 作为 Duboo 核心开发者，请先简单介绍下自己
 
-答：大家好，我是小马哥（mercyblitz），一名学习当爸爸的父亲，[Java 劝退师](https://www.douyu.com/mercyblitz)，[Apache Dubbo](https://dubbo.apache.org/) PMC、[Spring Cloud Alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba)项目架构师，《Spring Boot 编程思想》的作者。目前主要负责集团中间件开源项目、微服务技术实施、架构衍进、基础设施构建等。
+答：大家好，我是小明哥（mercyblitz），一名学习当爸爸的父亲，[Java 劝退师](https://www.douyu.com/mercyblitz)，[Apache Dubbo](https://dubbo.apache.org/) PMC、[Spring Cloud Alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba)项目架构师，《Spring Boot 编程思想》的作者。目前主要负责集团中间件开源项目、微服务技术实施、架构衍进、基础设施构建等。
 
 
 
@@ -27,7 +27,7 @@
 
 
 
-然而随着实践的不断深入，Spring Cloud 功能的稳定性以及版本的兼容性等问题较为突出。当应用集群达到一定规模时，其分布式经验上的短板也随之暴露，尤其是 Spring Cloud Netflix 套件，比如 Eureka 与 Ribbon 之间的 90 秒延迟会影响服务调用的成功率，以及负载均衡算法缺少权重无法帮助 JVM 预热。简言之，在服务治理方面，Spring Cloud 相较于 Dubbo 而言，并不算太成熟。如果大家有兴趣了解更多的话，可参考[「小马哥技术周报」](https://github.com/mercyblitz/tech-weekly)。
+然而随着实践的不断深入，Spring Cloud 功能的稳定性以及版本的兼容性等问题较为突出。当应用集群达到一定规模时，其分布式经验上的短板也随之暴露，尤其是 Spring Cloud Netflix 套件，比如 Eureka 与 Ribbon 之间的 90 秒延迟会影响服务调用的成功率，以及负载均衡算法缺少权重无法帮助 JVM 预热。简言之，在服务治理方面，Spring Cloud 相较于 Dubbo 而言，并不算太成熟。如果大家有兴趣了解更多的话，可参考[「小明哥技术周报」](https://github.com/mercyblitz/tech-weekly)。
 
 
 

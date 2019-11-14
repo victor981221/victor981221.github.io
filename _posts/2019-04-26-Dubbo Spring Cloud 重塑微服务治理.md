@@ -409,7 +409,7 @@ $ curl http://127.0.0.1:8080/echo?message=%E5%B0%8F%E9%A9%AC%E5%93%A5%EF%BC%88me
 HTTP 响应为：
 
 ```
-[echo] Hello, 小马哥（mercyblitz）
+[echo] Hello, 小明哥（mercyblitz）
 ```
 
 以上结果说明应用 `spring-cloud-dubbo-client-sample` 通过消费 Dubbo 服务，返回服务提供方 `spring-cloud-dubbo-server-sample` 运算后的内容。
@@ -445,7 +445,7 @@ HTTP 响应为：
 
 ## 下篇预告
 
-接下的文章将会介绍 Dubbo Spring Cloud 高阶示例的运用和实现，敬请关注小马哥微信公众号：`次灵均阁`
+接下的文章将会介绍 Dubbo Spring Cloud 高阶示例的运用和实现，敬请关注小明哥微信公众号：`次灵均阁`
 
 [![img](https://camo.githubusercontent.com/36671f72e171f0c95f33f781f294b3e6bdceef07/68747470733a2f2f6d65726379626c69747a2e6769746875622e696f2f626f6f6b732f7468696e6b696e672d696e2d737072696e672d626f6f742f6173736574732f6d795f6d705f7172636f64652e6a7067)](https://camo.githubusercontent.com/36671f72e171f0c95f33f781f294b3e6bdceef07/68747470733a2f2f6d65726379626c69747a2e6769746875622e696f2f626f6f6b732f7468696e6b696e672d696e2d737072696e672d626f6f742f6173736574732f6d795f6d705f7172636f64652e6a7067)
 
@@ -472,20 +472,20 @@ HTTP 响应为：
 
 ### 免费分享
 
-- [「小马哥技术周报」](https://www.douyu.com/mercyblitz)
+- [「小明哥技术周报」](https://www.douyu.com/mercyblitz)
 	- [斗鱼直播](https://www.douyu.com/mercyblitz)
 	- [B 站录播](http://space.bilibili.com/327910845/channel/detail?cid=52311)
 - [「慕课网」](https://www.imooc.com/t/5387391)
 	- [Spring Boot 2.0深度实践-初遇Spring Boot](https://www.imooc.com/learn/933) 
   - [Spring Boot 2.0深度实践之系列总览](https://www.imooc.com/learn/1058)
 - [「SegmentFault」](https://segmentfault.com/u/mercyblitz)
-	- [「小马哥 2019 跨年直播」一入 Java 深似海，从此“劝退”成必然](https://mp.weixin.qq.com/s?__biz=MzIxNDU4NjE1OQ==&mid=2247484085&idx=1&sn=5905f53e69bae9d48b3783a83bde40b3)	
+	- [「小明哥 2019 跨年直播」一入 Java 深似海，从此“劝退”成必然](https://mp.weixin.qq.com/s?__biz=MzIxNDU4NjE1OQ==&mid=2247484085&idx=1&sn=5905f53e69bae9d48b3783a83bde40b3)	
 
 
 
 ### 收费分享
 
-- [「小马哥 Java 知识星球」](http://t.cn/RnxUYzd)
+- [「小明哥 Java 知识星球」](http://t.cn/RnxUYzd)
 > 深入探讨 Java 相关技术，包括行业动态，架构设计，设计模式，框架使用，源码分析等。
 
 - SegmentFault 直播
@@ -502,7 +502,7 @@ HTTP 响应为：
 
 ## 关于作者
 
-小马哥，Java 劝退师，Apache 和 Spring Cloud 等知名开源架构成员，[点击查看详情](https://mercyblitz.github.io/about/)。
+小明哥，Java 劝退师，Apache 和 Spring Cloud 等知名开源架构成员，[点击查看详情](https://mercyblitz.github.io/about/)。
 
 ---
 [^1]: Spring Cloud provides tools for developers to quickly build some of the common patterns in distributed systems (e.g. configuration management, service discovery, circuit breakers, intelligent routing, micro-proxy, control bus, one-time tokens, global locks, leadership election, distributed sessions, cluster state). - https://spring.io/projects/spring-cloud

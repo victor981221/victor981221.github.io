@@ -1,8 +1,8 @@
 # 《Spring Boot 编程思想》 - 勘误汇总
 
-如果您在阅读《Spring Boot 编程思想 - 核心篇》或示例练习的过程中发现了其中错误，请将错误内容提交至[【勘误汇】](https://github.com/mercyblitz/thinking-in-spring-boot-samples/issues)，小马哥将勘误内容汇总到此，修正后的内容将在后续的书籍发行中体现，并将勘误贡献者 Github ID 刊登到修订版的书籍中。
+如果您在阅读《Spring Boot 编程思想 - 核心篇》或示例练习的过程中发现了其中错误，请将错误内容提交至[【勘误汇】](https://github.com/mercyblitz/thinking-in-spring-boot-samples/issues)，小明哥将勘误内容汇总到此，修正后的内容将在后续的书籍发行中体现，并将勘误贡献者 Github ID 刊登到修订版的书籍中。
 
-> 小马哥水平有限，行文的过程中错误无法避免，为此深表歉意。
+> 小明哥水平有限，行文的过程中错误无法避免，为此深表歉意。
 
 
 
